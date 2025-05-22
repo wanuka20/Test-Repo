@@ -2,6 +2,6 @@
 
 This is a Sample!
 
-This is the first change to the file...git log
+This is the first change to the file...
 
 Second Change!!!
